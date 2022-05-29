@@ -1,6 +1,4 @@
-package strings.regex_pattern_matcher.task02.main;
-
-import strings.regex_pattern_matcher.task02.logic.Logic;
+package strings.regex_pattern_matcher.task02;
 
 /*
  * ƒана строка, содержаща€ следующий текст (xml-документ):

@@ -1,8 +1,6 @@
-package strings.regex_pattern_matcher.task01.logic;
+package strings.regex_pattern_matcher.task01;
 
 import java.util.Scanner;
-
-import strings.regex_pattern_matcher.task01.database.Database;
 
 /*
  * «адача 1. Cоздать приложение, разбирающее текст (текст хранитс€ в строке) и позвол€ющее выполн€ть с текстом 

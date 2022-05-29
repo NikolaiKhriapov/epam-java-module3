@@ -1,4 +1,4 @@
-package strings.regex_pattern_matcher.task02.logic;
+package strings.regex_pattern_matcher.task02;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

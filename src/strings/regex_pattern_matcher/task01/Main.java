@@ -1,7 +1,4 @@
-package strings.regex_pattern_matcher.task01.main;
-
-import strings.regex_pattern_matcher.task01.logic.Logic;
-import strings.regex_pattern_matcher.task01.view.View;
+package strings.regex_pattern_matcher.task01;
 
 /*
  * «адача 1. Cоздать приложение, разбирающее текст (текст хранитс€ в строке) и позвол€ющее выполн€ть с текстом 
